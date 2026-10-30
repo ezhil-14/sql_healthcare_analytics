@@ -1,6 +1,6 @@
 Healthcare Visit Analytics 
 
-1.Dataset Summary
+1. Dataset Summary
 The sample dataset contains eight healthcare visits across three departments.
 •	Total visits: 8
 •	Departments represented: 3
@@ -15,7 +15,7 @@ Neurology	35 minutes
 
 Cardiology	30 minutes
 
-Pediatrics		12.5 minutes
+Pediatrics	12.5 minutes
 						
 						
 Finding
